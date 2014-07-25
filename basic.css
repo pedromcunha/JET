@@ -1,0 +1,11 @@
+#button2 {
+    background-color: green;
+    color: white;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    font-weight: 700;
+    vertical-align: middle;
+    line-height: 30px;
+    border-radius: 5px;
+}
